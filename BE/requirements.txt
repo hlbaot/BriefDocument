@@ -1,0 +1,8 @@
+beautifulsoup4
+fastapi
+ollama
+playwright
+pypdf
+python-multipart
+requests
+uvicorn
